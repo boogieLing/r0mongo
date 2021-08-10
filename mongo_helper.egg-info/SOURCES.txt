@@ -1,0 +1,12 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+./mongo_helper/__init__.py
+mongo_helper.egg-info/PKG-INFO
+mongo_helper.egg-info/SOURCES.txt
+mongo_helper.egg-info/dependency_links.txt
+mongo_helper.egg-info/entry_points.txt
+mongo_helper.egg-info/top_level.txt
+test/test_mongo.py

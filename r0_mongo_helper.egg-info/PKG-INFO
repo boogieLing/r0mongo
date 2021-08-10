@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: r0-mongo-helper
+Version: 0.1.1
+Summary: Assist to complete the operations related to the addition, deletion, modification and query of mongodb, and provide rich time-related query operations
+Home-page: https://github.com/boogieLing/r0-mongo-helper
+Author: r0
+Author-email: boogieLing_o@163.com
+License: MIT
+Download-URL: https://github.com/boogieLing/r0-mongo-helper/tarball/v0.1.1
+Keywords: mongo,dictionary,secondary index,model,prototype,helper
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Intended Audience :: Developers
+License-File: LICENSE.txt
+
+About
+-----
+
+install latest commit on master of mongo-helper
+
+::
+
+  % pip3 install git+git://github.com/kenjyco/redis-helper
+
+

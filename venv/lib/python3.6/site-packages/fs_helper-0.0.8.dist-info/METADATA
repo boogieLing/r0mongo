@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: fs-helper
+Version: 0.0.8
+Summary: CLI helpers for filesystem tasks
+Home-page: https://github.com/kenjyco/fs-helper
+Author: Ken
+Author-email: kenjyco@gmail.com
+License: MIT
+Download-URL: https://github.com/kenjyco/fs-helper/tarball/v0.0.8
+Keywords: filesystem,files,helper
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Intended Audience :: Developers
+
+Install
+-------
+
+Install with ``pip``
+
+::
+
+    % pip3 install fs-helper
+
+
